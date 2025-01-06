@@ -115,6 +115,7 @@ These results demonstrate the model's strong ability to classify relationships b
 *   **Ethical Considerations:** Implementing safeguards against generating inappropriate content.
 *   **Scalability and Performance:** Ensuring smooth user experience with concurrent users.
 *   **Continuous Learning:** Keeping the chatbot updated with the latest computer science knowledge.
+*   **GPU Limitations:** The initial dataset size and model complexity led to resource constraints on Google Colab.
 
 ## Future Improvements
 
