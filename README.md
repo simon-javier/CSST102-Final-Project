@@ -46,6 +46,8 @@ CodePath is an advanced chatbot that leverages a Transformer-based neural networ
 *   Maintain conversation history for context.
 *   Detect user intent (e.g., greeting, question, command).
 
+Check out our [video presentation](https://drive.google.com/file/d/1xetxw-z68Hbdj0rmoRsZc-5ZzWcI45o1/view) for a detailed walkthrough of the project.
+
 ## Usage
 
 1. **Prerequisites:**
