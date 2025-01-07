@@ -23,12 +23,13 @@
 5. [Datasets](https://github.com/simon-javier/CSST102-Final-Project/tree/main/data)
 6. [Weekly Progress Report](https://github.com/simon-javier/CSST102-Final-Project/tree/main/weekly-progress-report)
 7. [Documentation](https://github.com/simon-javier/CSST102-Final-Project/tree/main/documentation)
-8. [Usage](#usage)
-9. [Model Evaluation](#model-evaluation)
-10. [Challenges](#challenges)
-11. [Future Improvements](#future-improvements)
-12. [Conclusion](#conclusion)
-13. [Contributors](#contributors)
+8. [Video Presentation](https://github.com/simon-javier/CSST102-Final-Project/tree/main/video-presentation)
+9. [Usage](#usage)
+10. [Model Evaluation](#model-evaluation)
+11. [Challenges](#challenges)
+12. [Future Improvements](#future-improvements)
+13. [Conclusion](#conclusion)
+14. [Contributors](#contributors)
 
 
 ## Introduction
